@@ -56,6 +56,8 @@ int menu()
             return 0;
         case 69:
             return 1;
+        case 70:
+            return 1;
         default:
             break;
         }
